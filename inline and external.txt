@@ -1,0 +1,16 @@
+<style>
+    div{
+        background-color: red;
+        width:300px;
+        height:100px;
+    }
+   
+   p{
+    color:blue;
+   }
+    
+</style>
+<div>
+<h1 style="color:white";>heading</h1>
+<p>paragraph</p>
+</div>
